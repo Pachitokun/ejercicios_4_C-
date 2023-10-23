@@ -1,0 +1,14 @@
+D:\C#\Pregunta17\Pregunta17\bin\Debug\net6.0\Pregunta17.exe
+D:\C#\Pregunta17\Pregunta17\bin\Debug\net6.0\Pregunta17.deps.json
+D:\C#\Pregunta17\Pregunta17\bin\Debug\net6.0\Pregunta17.runtimeconfig.json
+D:\C#\Pregunta17\Pregunta17\bin\Debug\net6.0\Pregunta17.dll
+D:\C#\Pregunta17\Pregunta17\bin\Debug\net6.0\Pregunta17.pdb
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\Pregunta17.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\Pregunta17.AssemblyInfoInputs.cache
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\Pregunta17.AssemblyInfo.cs
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\Pregunta17.csproj.CoreCompileInputs.cache
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\Pregunta17.dll
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\refint\Pregunta17.dll
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\Pregunta17.pdb
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\Pregunta17.genruntimeconfig.cache
+D:\C#\Pregunta17\Pregunta17\obj\Debug\net6.0\ref\Pregunta17.dll
